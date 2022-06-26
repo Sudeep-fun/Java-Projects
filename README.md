@@ -1,3 +1,3 @@
 # Java-Projects
 
-Space for practising Java based projects for handson on the language.  
+Space for practising Java based projects for hands-on.  
